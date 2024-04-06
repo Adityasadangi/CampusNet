@@ -84,10 +84,3 @@ To get started with the server side of CampusNet, follow these steps:
    - Define environment variables such as `EMAIL_ADDRESS`, `EMAIL_PASSWORD(application's secret key password , it's not your gmail password)`, `MONGODB_URL`, `PORT`, etc.
 4. Start the development server: `npm run start`
 5. The server will be running on the specified port, and you can access the API endpoints accordingly.
-
-# CampusNet
-# CampusNet
-# CampusNet
-# CampusNet
-# CampusNet
-# CampusNet
